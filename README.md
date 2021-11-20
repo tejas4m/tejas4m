@@ -26,4 +26,4 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=tejas4m&show_icons=true&locale=en&theme=radical" alt="tejas4m" /></p>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tejas4m)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tejas4m)]
