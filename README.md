@@ -1,5 +1,7 @@
 <h1 align="center">Hi 👋, I'm Tejas Mahajan</h1>
 <h3 align="center">A passionate frontend developer(i like Backend too) & an ML enthusiast from India</h3>
+<p align="center">![](https://komarev.com/ghpvc/?username=tejas4m)</p>
+
 
 - 🔭 I’m currently working on **Machine Learning/Deep Learning**
 
