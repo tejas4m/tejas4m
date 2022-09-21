@@ -4,11 +4,11 @@
 
 - 🔭 I’m currently working on **Machine Learning/Deep Learning**
 
-- 🌱 I’m currently learning **Machine Learning**
+- 🌱 I’m currently learning **Deep Learning**
 
 - 👯 I’m looking to collaborate on **Open Source Projects**
 
-- 💬 Ask me about **ReactJs**
+- 💬 Ask me about **Neural Nets, Transformers, Natural Language Processing**
 
 - 📫 How to reach me **tejas4202@gmail.com**
 
