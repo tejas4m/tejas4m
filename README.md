@@ -12,7 +12,7 @@
 
 - 📫 How to reach me **tejas4202@gmail.com**
 
-- 📄 Know about my experiences [Resume](https://drive.google.com/file/d/1bM56bw9EgpwsTn3qC_3CRlULK5wv9YMl/view?usp=sharing)
+ <!--- - 📄 Know about my experiences [Resume](https://drive.google.com/file/d/1bM56bw9EgpwsTn3qC_3CRlULK5wv9YMl/view?usp=sharing) --->
 
 - ⚡ Fun fact **Chicken makes me happy**
 
