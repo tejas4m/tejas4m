@@ -1,10 +1,10 @@
 <h1 align="center">Hi 👋, I'm Tejas Mahajan</h1>
-<h3 align="center">A passionate frontend developer(i like Backend too) & an ML enthusiast from India</h3>
+<h3 align="center">A graduate student majoring in Computer Science at the University of Southern California, with a deep passion for computers and their practical applications</h3>
 
 
 - 🔭 I’m currently working on **Machine Learning/Deep Learning**
 
-- 🌱 I’m currently learning **Deep Learning**
+- 🌱 I’m currently learning **AWS**
 
 - 👯 I’m looking to collaborate on **Open Source Projects**
 
