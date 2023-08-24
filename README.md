@@ -6,7 +6,7 @@
 
 - 🌱 I’m currently learning **AWS**
 
-- 👯 I’m looking to collaborate on **Open Source Projects**
+- 👯 I’m looking to collaborate on **Open Source Projects based on Machine Learning**
 
 - 💬 Ask me about **Neural Nets, Transformers, Natural Language Processing**
 
